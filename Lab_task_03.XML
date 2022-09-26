@@ -1,0 +1,59 @@
+<employees>
+        <heading>
+        <id> ID </id>
+        <name> NAME </name>
+		<address> ADDRESS </address>
+        <Department> DEPARTMENT </Department>
+		<salary> SALARY </salary>
+        </heading>
+
+        <employee id="1">
+                <id> 1 </id>
+                <name> Mark Zuckerberg </name>
+        <address>
+			<flat>A/1</flat>
+			<house>20</house>
+			<road> 18 </road>
+			<area>Mirpur</area>
+			<division>Dhaka</division>  
+		</address>
+
+        <Department> Accounts </Department>
+        <salary> $20000 </salary>
+
+        </employee>
+
+ 	<employee id="2">
+
+        <id> 2 </id>
+        <name> John Doe </name>
+    <address>
+        <flat>A/1</flat>
+            <house>20</house>
+			<road> 3 </road>
+            <area>Mirpur</area>
+            <division>Dhaka</division>
+    </address>
+
+        <Department> Sales </Department>
+        <salary> $20000 </salary>
+
+    </employee>
+    	<employee id="3">
+        <id> 3 </id>
+        <name> Ala Voski </name>
+    <address>
+        <flat></flat>
+            <house>20</house>
+			<road> 3 </road>
+            <area>Motijheel</area>
+            <division>Dhaka</division>
+    </address>
+
+         <Department> Human Resource </Department>
+        <salary> $30000 </salary>
+
+        </employee>
+
+
+</employees>
